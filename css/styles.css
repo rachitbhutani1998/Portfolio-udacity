@@ -46,7 +46,7 @@ header {
 }
 
 .projects figure {
-	width: calc(100%/3)
+	width: calc(100%/3);
 	height: auto;
 	margin:0;
 	text-align: center;
